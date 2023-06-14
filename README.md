@@ -5,3 +5,4 @@ TODO:
 - Penjelasan direktori tflite
 - Dataset yang dipakai beserta detailnya (ada berapa class sama masing2 class ada berapa)
 - Cara bukanya di Google colab ngerun & download tflitenya
+- Tambahin hasil masing-masing model (accuracy vs validation accuracy)
